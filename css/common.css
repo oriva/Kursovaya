@@ -1,0 +1,42 @@
+.glyphicon{
+    font-size: 50px;
+}
+
+.well-serv {
+    background-color: #D9EDF7;
+    border-radius: 11px 11px 11px 11px;
+    padding-top: 12px;
+    text-align: center;
+    margin: 15px 30px 15px 30px;
+    opacity:0.95;
+    filter: alpha(opacity=20, style=3);
+}
+
+.well-serv:hover,
+.well-serv:focus {
+    background-color: #C9DDE7;
+    cursor: pointer;
+    border: 2px solid #d3d3d3;
+    padding: 17px;
+    padding-top: 12px;
+    box-shadow: 0px 0px 71px -40px #000000 inset;
+    box-shadow: 5px 3px 18px -4px #000000;
+    opacity:1;
+    filter: alpha(opacity=20, style=3);
+}
+
+.well-serv p
+{
+    background: url('/img/blockRepeat.png') repeat-x 0 0;
+    border-top: 2px solid #ccc;
+    margin: 3px -19px -19px;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: hidden;
+    border-radius: 0px 0px 11px 11px;
+    padding: 4px 15px;
+}
+.well-serv h4
+{
+    padding: 0px 2px;
+}
