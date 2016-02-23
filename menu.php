@@ -16,24 +16,23 @@
               <a href="news.php">Новости</a>
             </li>
             <li class="dropdown">
-                <a href="tour.php">Достижения</a>
+                <a href="honors.php">Галерея</a>
                 <ul class="dropdown-menu">
-                    <li><a href="tour.php">Гастроли</a></li>
-                    <li><a href="honors.php">Награды</a></li>
+                    <li><a href="honors.php">Достижения</a></li>
                     <li><a href="repertoire.php">Репертуар</a></li>
                     <li role="separator" class="divider"></li>
                     <li><a href="gallery.php">Галерея</a></li>
                 </ul>      
             </li>
             <li class="dropdown">
-                <a href="timetable.php">Расписание и цены</a>                 
+                <a href="timetable.php">Расписание и набор</a>                 
                 <ul class="dropdown-menu">
                     <li><a href="timetable.php">Расписание</a></li>
-                    <li><a href="prices.php">Цены</a></li>                  
+                    <li><a href="setagroop.php">Набор</a></li>                  
                 </ul>    
             </li>
             <li>
-              <a href="news.php">Преподаватели</a>
+              <a href="teachers.php">Преподаватели</a>
             </li>
             <li><a href="contacts.php">Контакты</a></li>
           </ul>

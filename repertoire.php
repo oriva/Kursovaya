@@ -16,23 +16,55 @@
 </header>      
 <main>
     <div class="container">
-        <article class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-            <h1 class="cover-heading">Lorem ipsum.</h1>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            
-        </article>
-         <aside class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
-              <h1 class="cover-heading">Lorem ipsum.</h1>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-            <div class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
-              <h1 class="cover-heading">Lorem ipsum.</h1>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-          </div>
-        </aside> 
+        <h1 class="page-header">Репертуар</h1>
+        <div class="col-sm-6">
+            <h4 class="lobster">Действующие номера:</h4>
+            <ul>
+                <li>Снегопад</li>
+                <li>Буги-Вуги</li>
+                <li>Варенье</li>
+                <li>Паровоз</li>
+                <li>На вершине Арарата</li>
+                <li>Богатыри</li>
+                <li>Частушки</li>
+                <li>Танцы на льдине</li>
+                <li>Байкеры</li>
+                <li>На зло статистике</li>
+                <li>Концерт для скрипки</li>
+                <li>Выкрутасы</li>
+                <li>Барьерный риф</li>
+                <li>На Ивана Купала</li>
+                <li>Красный вальс</li>
+                <li>Нано-техно</li>
+                <li>Офис</li>
+                <li>Большая перемена</li>
+                <li>Пилоты</li>
+                <li>Цветочные сны</li>
+                <li>Там, где магнолии цветут</li>
+                <li>Пластилин</li>
+                <li>Базар</li>
+            </ul>
+        </div>
+        <div class="col-sm-6">
+            <h4 class="lobster">Номера, снятые с репертуара:</h4>
+            <ul>
+                <li>Аты-Баты</li>
+                <li>Веснушки</li>
+                <li>Встреча на ветке</li>
+                <li>Два наряда вне очереди</li>
+                <li>Доброе утро</li>
+                <li>Дороги</li>
+                <li>Журавли</li>
+                <li>Ирония любви</li>
+                <li>Маленькие дети</li>
+                <li>Молитва</li>
+                <li>О тебе(дуэт)</li>
+                <li>О тебе(спектакль)</li>
+                <li>Остров сокровищ</li>
+                <li>Подруженька моя</li>
+                <li>Разговор</li>
+            </ul>
+        </div> 
     </div> 
 </main>
 

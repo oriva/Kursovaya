@@ -1,13 +1,16 @@
- @font-face {
-    font-family: lobster; /* Имя шрифта */
+@font-face {
+    font-family: lobster;
     src: url(/fonts/lobster.woff);
 }
 
-.btn {border: 3px solid transparent;
+.btn {
+    border: 3px solid transparent;
     color: #24a5bb;
 }
 
-main {margin-top: 50px;}
+main {
+    margin-top: 50px;
+}
 
 .navbar-inverse {
     background-image: url('/img/noise.png');
@@ -18,21 +21,25 @@ main {margin-top: 50px;}
     color: #24a5bb;
     font-family: 'lobster';
 }
+
 .navbar-inverse .dropdown-menu> li > a {
     color: #24a5bb;
-   font-family: 'lobster';
+    font-family: 'lobster';
 }
- .navbar-inverse .dropdown-menu .active> li > a {
+
+.navbar-inverse .dropdown-menu .active> li > a {
     color: #24a5bb;
     background-color: #222;
     font-family: 'lobster';
 }
+
 .navbar-inverse .dropdown-menu> li > a:hover {
     color: #FFF;
     background-color: #222;
 }
+
 .dropdown-menu {
-   background-color: #222; 
+    background-color: #222;
 }
 
 .btn:hover {
@@ -41,7 +48,38 @@ main {margin-top: 50px;}
 }
 
 .hide-bullets {
-list-style:none;
-margin-left: -40px;
-margin-top:20px;
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 20px;
+}
+
+.leftimg {
+    float: left;
+    margin: 7px 7px 7px 0;
+    border-radius: 10%;
+}
+
+.teach> h5 {
+    margin-top: 30px;
+}
+
+.teach> h4 {
+    font-family: 'lobster';
+}
+
+.teach {
+    border: 1px solid #aaa;
+    height: 344px;
+}
+
+.teach:hover {
+    background: #ffc;
+}
+
+body {
+    overflow: scroll;
+}
+
+.lobster {
+    font-family: 'lobster';
 }
